@@ -18,8 +18,8 @@ Here are some ideas to get you started:
   
 <img src="https://github-stats-extended.vercel.app/api?username=raciott&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=E6EDF3&icon_color=7EE787&bg_color=0D1117&theme=transparent" width="420" height="170"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&hide_border=true&background=0D1117&ring=7EE787&fire=7EE787&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=8B949E&sideNums=E6EDF3&currStreakNum=E6EDF3" width="420" height="170"/>
-<img src="https://github-immortality.vercel.app/api?username=raciott&hide_border=true&bg_color=0D1117&text_color=E6EDF3" width="450" height="170"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=raciott&langs_count=6&layout=compact&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=7EE787" width="450" height="170"/>
+<img src="https://github-immortality.vercel.app/api?username=raciott&hide_border=true&bg_color=0D1117&text_color=E6EDF3" width="420" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=raciott&langs_count=6&layout=compact&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=7EE787" width="420" height="170"/>
 </div>
 
 
